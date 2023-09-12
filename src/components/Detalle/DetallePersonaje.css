@@ -6,7 +6,7 @@ body {
 }
 
 .DetallePersonaje {
-  background-image: url('E:\Programacion\Facultad\Desarrollo aplicativo\Practica\parcial1\rickandmorty\src\Assets/tarjetaBackground.jpg');
+  background-image: url('../../Assets/tarjetaBackground.jpg');
   background-color: #000000;
   border: 1px solid #000000;
   border-radius: 8px;

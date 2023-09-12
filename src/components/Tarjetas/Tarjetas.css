@@ -1,6 +1,6 @@
 /* Estilo para las tarjetas */
 .Tarjeta {
-  background-image: url('E:\Programacion\Facultad\Desarrollo aplicativo\Practica\parcial1\rickandmorty\src\Assets/tarjetaBackground.jpg');
+  background-image: url('../../Assets/tarjetaBackground.jpg');
   border: 1px solid #000000;
   background-color: #fff;
   padding: 20px;

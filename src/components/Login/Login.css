@@ -1,5 +1,5 @@
 .Logincontainer1 {
-    background-image: url('E:\Programacion\Facultad\Desarrollo aplicativo\Practica\parcial1\rickandmorty\src\Assets/backgroundLogin.jpg');
+    background-image: url('../../Assets/backgroundLogin.jpg');
     background-size: 100%;
     background-position: left;
     min-height: 100vh; /* Esto garantiza que la imagen de fondo cubra toda la pantalla */
@@ -12,6 +12,7 @@
     color: #793b81;
     
   }
+  
 
   .login-container {
     background-color: #fff;
@@ -56,6 +57,7 @@ body h1 {
     font-size: 2vw;
     transition: all .5s;
     background-color: #793b81;
+    margin-top: 50px; 
   
     &::before {
       @extend %test;

@@ -21,9 +21,12 @@ export default function Login() {
             type="password" 
             onChange={e=> setContraseña(e.target.value)}
           />
+            <div className="button-container">
           <Link to={'/Home'} type="submit" class="button" name="btn">
             Enviar
           </Link>
+          </div>
+          
           
     </div>
   );
